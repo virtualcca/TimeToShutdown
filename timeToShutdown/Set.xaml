@@ -1,0 +1,55 @@
+﻿<Window x:Class="timeToShutdown.Set"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Set" Height="254" Width="355" BorderBrush="Black" BorderThickness="1" WindowStyle="None" MouseLeftButtonDown="Window_MouseLeftButtonDown_1" ResizeMode="NoResize" >
+    <Window.Resources>
+        <Style x:Key="RectangleElement" TargetType="{x:Type Rectangle}">
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                   <Setter Property="Effect">
+                        <Setter.Value>
+                            <DropShadowEffect BlurRadius="15" Color="Black" Direction="0" Opacity="0.6" RenderingBias="Performance" ShadowDepth="0"/>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid Name="maingrid">
+        <Grid Height="29" Margin="0,0,0,0" VerticalAlignment="Top">
+            <StackPanel Orientation="Horizontal" Height="24" VerticalAlignment="Top" FlowDirection="RightToLeft" Margin="0,0,10,0" HorizontalAlignment="Right" Width="86">
+                <Button Name="close" BorderThickness="0" HorizontalAlignment="Right" Height="24" Width="43" VerticalAlignment="Top" Click="close_Click">
+                    <Button.Content>
+                        <Image Source="PNG\appbar.cancel.rest.png" />
+                    </Button.Content>
+                    <Button.Background>
+                        <LinearGradientBrush StartPoint="1,0" EndPoint="1,0.9">
+                            <GradientStop Color="#f9f9f9" Offset="0"/>
+                            <GradientStop Color="#DD0022" Offset="1" />
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+            </StackPanel>
+            <TextBlock HorizontalAlignment="Center" TextWrapping="NoWrap" Text="Set" VerticalAlignment="Top" Width="30" FontSize="16" FontFamily="Segoe WP"/>
+        </Grid>
+        <Grid Margin="5,34,5,5" Name="setMain">
+            <Rectangle Stroke="Black" Fill="White" />
+            <StackPanel Name="firstLine" Height="83" VerticalAlignment="Top" Orientation="Horizontal">
+                <Rectangle Style="{StaticResource RectangleElement}" Name="Original" HorizontalAlignment="Left" Height="61" Stroke="Black" Width="89" Fill="#f9f9f9" Margin="10,10"  MouseLeftButtonDown="Select_MouseLeftButtonDown"  />
+                <Rectangle Style="{StaticResource RectangleElement}" Name="SkyBlue" HorizontalAlignment="Left" Height="61" Stroke="Black" Width="89" Fill="SkyBlue" Margin="10,10" MouseLeftButtonDown="Select_MouseLeftButtonDown">
+                </Rectangle>
+                <Rectangle Style="{StaticResource RectangleElement}" Name="GreenYellow" HorizontalAlignment="Left" Height="61" Stroke="Black" Width="89" Fill="GreenYellow" Margin="10,10" MouseLeftButtonDown="Select_MouseLeftButtonDown" >
+                </Rectangle>
+            </StackPanel>
+            <StackPanel Height="83" VerticalAlignment="Bottom" Orientation="Horizontal" Margin="0,0,0,35">
+                <Rectangle Style="{StaticResource RectangleElement}" Name="Pink" HorizontalAlignment="Left" Height="61" Stroke="Black" Width="89" Fill="Pink" Margin="10,10" MouseLeftButtonDown="Select_MouseLeftButtonDown" >
+                </Rectangle>
+                <Rectangle Style="{StaticResource RectangleElement}" Name="Levender" HorizontalAlignment="Left" Height="61" Stroke="Black" Width="89" Fill="Lavender" Margin="10,10" MouseLeftButtonDown="Select_MouseLeftButtonDown">
+                </Rectangle>
+                <Rectangle Style="{StaticResource RectangleElement}" Name="Khaki" HorizontalAlignment="Left" Height="61" Stroke="Black" Width="89" Fill="Khaki" Margin="10,10" MouseLeftButtonDown="Select_MouseLeftButtonDown">
+                </Rectangle>
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+</Window>

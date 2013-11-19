@@ -1,0 +1,77 @@
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\MainWindow.baml
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\MainWindow.g.cs
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\App.g.cs
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\timeToShutdown.Properties.Resources.resources
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\timeToShutdown.csproj.GenerateResource.Cache
+E:\Other\Project\timeToShutdown\timeToShutdown\bin\Debug\timeToShutdown.exe.config
+E:\Other\Project\timeToShutdown\timeToShutdown\bin\Debug\timeToShutdown.exe
+E:\Other\Project\timeToShutdown\timeToShutdown\bin\Debug\timeToShutdown.pdb
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\timeToShutdown_MarkupCompile.cache
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\timeToShutdown.g.resources
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\timeToShutdown.exe
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\timeToShutdown.pdb
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\Set.baml
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\Set.g.cs
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\Clock.baml
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\Clock.g.cs
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\timeToShutdown.csprojResolveAssemblyReference.cache
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\media.baml
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\media.g.cs
+E:\Other\Project\timeToShutdown\timeToShutdown\bin\Debug\Lang\zh-CN.xaml
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\Lang\DefaultLanguage.baml
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\timeToShutdown_Content.g.cs
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\App.baml
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Other\Project\timeToShutdown\timeToShutdown\obj\Debug\timeToShutdown_MarkupCompile.lref
+E:\Other\Project\timeToShutdown old\timeToShutdown\bin\Debug\Lang\zh-CN.xaml
+E:\Other\Project\timeToShutdown old\timeToShutdown\bin\Debug\timeToShutdown.exe.config
+E:\Other\Project\timeToShutdown old\timeToShutdown\bin\Debug\timeToShutdown.exe
+E:\Other\Project\timeToShutdown old\timeToShutdown\bin\Debug\timeToShutdown.pdb
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown.csprojResolveAssemblyReference.cache
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\Clock.baml
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\Lang\DefaultLanguage.baml
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\media.baml
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\Set.baml
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\Window1.baml
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\App.baml
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\Clock.g.cs
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\MainWindow.g.cs
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\media.g.cs
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\Set.g.cs
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\Window1.g.cs
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\App.g.cs
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown_Content.g.cs
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown_MarkupCompile.cache
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown_MarkupCompile.lref
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\MainWindow.baml
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown.g.resources
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown.Properties.Resources.resources
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown.csproj.GenerateResource.Cache
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown.exe
+E:\Other\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown.pdb
+G:\Project\timeToShutdown old\timeToShutdown\bin\Debug\Lang\zh-CN.xaml
+G:\Project\timeToShutdown old\timeToShutdown\bin\Debug\timeToShutdown.exe.config
+G:\Project\timeToShutdown old\timeToShutdown\bin\Debug\timeToShutdown.exe
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown.csprojResolveAssemblyReference.cache
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\Clock.baml
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\Lang\DefaultLanguage.baml
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\media.baml
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\Set.baml
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\Window1.baml
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\App.baml
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\Clock.g.cs
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\MainWindow.g.cs
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\media.g.cs
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\Set.g.cs
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\Window1.g.cs
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\App.g.cs
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown_Content.g.cs
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown_MarkupCompile.cache
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown_MarkupCompile.lref
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\MainWindow.baml
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown.g.resources
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown.Properties.Resources.resources
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown.csproj.GenerateResource.Cache
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown.exe
+G:\Project\timeToShutdown old\timeToShutdown\obj\Debug\timeToShutdown.pdb
+G:\Project\timeToShutdown old\timeToShutdown\bin\Debug\timeToShutdown.pdb

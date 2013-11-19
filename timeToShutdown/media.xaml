@@ -1,0 +1,44 @@
+﻿<Window x:Class="timeToShutdown.media"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="media" Height="399" Width="435">
+    <Grid >
+        <Grid Margin="0,25,0,80" Background="Black" >
+            <MediaElement Name="mediaElement1" MediaOpened="mediaElement1_MediaOpened_1" >
+                <MediaElement.Triggers>
+                    <EventTrigger SourceName="mediaElement1" RoutedEvent="MediaElement.Loaded">
+                        <EventTrigger.Actions>
+                            <BeginStoryboard x:Name="sbm">
+                                <Storyboard>
+                                    <MediaTimeline x:Name="mediatimeline"
+                                                   Storyboard.TargetName="mediaElement1"
+                                                   CurrentTimeInvalidated="mediatimeline_CurrentTimeInvalidated_1"
+                                                   />
+                                        
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger.Actions>
+                    </EventTrigger>
+                </MediaElement.Triggers>
+            </MediaElement>
+        </Grid>
+        <Grid Name="Play" Height="65" VerticalAlignment="Bottom" Margin="0,0,0,10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="37*"/>
+            </Grid.RowDefinitions>
+            <Grid x:Name="playGrid" Height="34" Width="34" VerticalAlignment="Bottom" Margin="192,0,193,0" Grid.Row="1">
+            </Grid>
+            <Slider Name="Slider1" Margin="10,5,10,0" VerticalAlignment="Top" RenderTransformOrigin="100.833,100" />
+            <TextBox Name="text" HorizontalAlignment="Left" Height="23" Margin="26,0,0,-13" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        </Grid>
+        <DockPanel HorizontalAlignment="Left" Height="20" LastChildFill="False" VerticalAlignment="Top" Width="419">
+            <Menu>
+                <MenuItem Header="_File" FontSize="14" FontFamily="微软雅黑" Background="White">
+                    <MenuItem Header="_Open" Name="Open_MenuItem" Click="Open_Click" />
+                    <Separator Background="White"/>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+    </Grid>
+</Window>
